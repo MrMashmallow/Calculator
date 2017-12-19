@@ -16,4 +16,16 @@ function e() {
 	}
 	
 }
+
+function absolute() {
+	// evaluate the current equation
+ 	e();
+	var x = document.getElementById("d").value;
+	// use Math.abs()
+	 x=Math.abs(x);
+	
+	 
+	// update the display
+	d(x);
+}
  

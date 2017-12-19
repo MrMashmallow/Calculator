@@ -3,8 +3,8 @@
 
 /* Calculator Box */
 .box {
-	background-color:#D7D7D7;
-	height: 300px;
+	background-color: #504F4F ;
+	height: 400px;
 	width: 250px;
 	border-radius: 10px;
 	position: relative;
@@ -15,7 +15,7 @@
 	
 	/* Display*/
 	.display  {
-		   background-color:#bfc4ce;
+		   background-color: #5FB923;
 		   width: 220px;
 		   position: relative;
 		   left: 15px;
@@ -59,7 +59,7 @@
 	}
 	.button.operator {
 		color:white;
-		background-color: #465071; 
+		background-color: #5FB923; 
 		border-bottom: black 2px solid;
 		border-top: 2px #6f6f6f solid;
 	} 
